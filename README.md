@@ -46,7 +46,7 @@ TYPE 2:
 ![App Screenshot](https://i.ibb.co/N2D9pC1/screenshot2.png)
 ![App Screenshot](https://i.ibb.co/9hH5tpc/output2.png)
 
-## Deployment
+## Usage
 
 If you want to view movies you have not yet watched based on ratings+popularity:
 
