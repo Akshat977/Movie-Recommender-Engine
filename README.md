@@ -10,8 +10,8 @@ A RECOMMENDER ENGINE WHICH SUGGESTS MOVIES BASED ON FOLLOWING CONDITIONS:
 The Datasets used in this project can be found using the following links:
 
 [TMDB 5000 Movie Dataset](https://www.kaggle.com/tmdb/tmdb-movie-metadata)\
-[movies](https://file.io/1uykoAQuJpUk)\
-[ratings](https://ufile.io/3rxvkow1)
+[movies](https://drive.google.com/file/d/1wJglKuwlo8qn4mwTTLnVSTtBQmYYaxVP/view?usp=sharing)\
+[ratings](https://drive.google.com/file/d/1lwuvZv8PWyRpn5dcXFDGr7tqb6cU3ai5/view?usp=sharing)
 ## Working
 A) Suggesting movies based on Popularity + Rating:
 
